@@ -15,29 +15,6 @@
 - **Tools & Platforms:** GitHub, HackerRank, LeetCode, Canvas, AI Prompts  
 - **Soft Skills:** Collaboration, Leadership, Problem Solving, Innovation, Enthusiasm  
 
----
-
-## 🛠️ Projects
-
-### 🔹 AI Chatbot
-An AI-powered chatbot built using **Botpress**, integrating natural language processing for enhanced interaction.
-
-### 🔹 Travel Web Application
-A responsive and interactive travel website built with **HTML, CSS, and JavaScript**, aimed at solving real-world travel planning challenges.
-
----
-
-## 📜 Certifications & Competitions
-
-- **NPTEL** – Problem Solving through Programming in C (IIT Kharagpur)  
-- **NPTEL** – Soft Skills Development (IIT Kharagpur)  
-- **NPTEL** – Data Analysis with Python (IIT Roorkee)  
-- **Hackathons:**  
-  - Smart India Hackathon – Qualified (2023, 2024)  
-  - CodeClash – Google DSC (2024)  
-  - MPGI Hacks (2022)
-
----
 
 ## 🎤 Extra-Curricular Activities
 
